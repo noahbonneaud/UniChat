@@ -1,2 +1,6 @@
 # UniChat
-This chat application will be use by students from Unitec in order to communicate and exchange during lock down with other students. Multiple people can connect to the app and get a group chat.
+In lockdown, it is sometimes difficult for student to get in touch with other students as they are not having the possibility to physically be at the University discuss. Group project work can be a problem if members are not having a way to communicate. During home exercise, students who may need help will be searching for a way to get a contact with others classmate and here is an application which will solve a quarantine problem for students of Unitec.
+
+UniChat is a web application that will allow different student from Unitec to discuss online from home. It will no longer be a problem to exchange as they just have to connect, implement a username, and start to discuss in no time. Ordinary chat application will ask to create an account and it can also be an issue as student from Unitec are coming from different country and use different apps. Student from New Zealand might get more familiar with WhatsApp but student from Asia might prefer WeChat. Unichat is a dedicated app for University that will give a compromise for all student and will be simple to use.
+
+The application will be simple, a single click to lunch, a username implemented and the user interface for the chat open. Messages will be implemented, and a button will sent them. Multiple users can connect to the same chat and it will then be a group chat.
