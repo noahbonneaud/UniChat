@@ -1,4 +1,4 @@
-#Descriptive tasks with estimate time needed
+Descriptive tasks with estimate time needed
 
 1 gathering information from online/ 1.5hours
 Here I will make research about the project and useful code that will be implemented later for the project
